@@ -56,7 +56,7 @@ Pip (Python package manager)]
 ### Implementation
 For Software:
 # Installation
-[git clone https://github.com/yourusername/Critique-O-Fan.git
+[git clone https://github.com/professornotme/Critique-O-Fan
 cd Critique-O-Fan
 pip install -r requirements.txt
 ]
