@@ -83,7 +83,7 @@ For Software:
 ### Project Demo
 # Video
 https://screenapp.io/app/#/shared/1Xp8WLNbGj
-*Explain what the video demonstrates*
+
 
 
 ## Team Contributions
