@@ -2,4 +2,4 @@ streamlit
 pillow
 opencv-python
 temp
-cv2
+
